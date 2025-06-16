@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Pokemon;
+  src: url('../Fontes/Pocket-Monk.otf');
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  margin: 0px;
+  padding: 0x;
+  box-sizing: 0px;
+  font-family: Pokemon;
+}
